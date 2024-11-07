@@ -1,0 +1,51 @@
+body {
+    background-image: url(images/background-2.webp);
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+.title, h2 {
+    background-color: yellowgreen;
+    color:darkgreen;
+    text-align: center;
+}
+
+.title {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+img {
+    margin: 16px;
+    width:600px;
+    border: 5px solid darkgreen;
+}
+
+.text {
+    display: flex;
+    gap: 32px;
+    width: 100%;
+    flex: 1;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.recipe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p, ul, ol {
+    background-color: greenyellow;
+    height:200px;
+    padding: 16px;
+    border: 5px solid darkgreen;
+}

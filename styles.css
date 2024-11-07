@@ -1,0 +1,61 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 64px;
+    background-color: yellowgreen;
+    color:darkgreen;
+    border: 5px solid darkgreen;
+    font-size: 28px;
+    height: 70px;
+    width: 500px;
+}
+
+body {
+    background-image: url(images/background-2.webp);
+    font-family: sans-serif, Arial, Helvetica;
+    margin: 0 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkgreen;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+img {
+    width:500px;
+    border: 5px solid darkgreen;
+    
+}
+
+.recipe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    border: 5px solid darkgreen;
+    padding: 16px;
+    background-color:yellowgreen;
+    justify-content: center;
+}
+
+.recipes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

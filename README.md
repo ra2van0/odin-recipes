@@ -1,2 +1,2 @@
 # odin-recipes
-This is my very first project on The Odin Project. Completing it has helped me practice my HTML introductory skills, including being able to work with lists or links, for instance. It was fun and I'm really looking forward to the future projects of TOP.
+This is my very first project on The Odin Project. It was so much fun to do. The recipes are from Adventure Time. 
